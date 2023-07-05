@@ -1,6 +1,6 @@
 # Uma Abordagem para Classificação de Sentimentos de Tweets Relacionados a Campanha Presidencial Brasileira 2022
 
-<img src="https://cdn.pixabay.com/photo/2020/08/09/14/25/business-5475661_1280.jpg"  width="960" height="360">
+<img src="https://pixabay.com/get/g0c43b5e713e3507ec1489f0f059b21c5c35d340484b906d366f561210cb4453aec6d69f412e309e479e7af84cd4a6dd62fe7b76dcef1bb0329935e3b8940e318_1280.jpg"  width="960" height="360">
 
 ### Trabalho de Conclusão de Curso da Especialiazação em Engenharia e Ciência de Dados realizada no Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE)
 
