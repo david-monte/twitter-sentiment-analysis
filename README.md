@@ -8,4 +8,4 @@ os resultados obtidos para a classificação, juntamente com outras informaçõe
 
 ## Dashboard
 Visando fornecer uma perspectiva do contexto das eleições presidenciais em função dos dados obtidos, foi desenvolvido um dashboard denominado Analisador de Tweets - CPBr 2022, abrangendo o período entre as datas 18 de setembro de 2022 e 31 de outubro de 2022. Este período inclui os dias de votação do primeiro e do segundo turno que ocorreram respectivamente nas datas 2 de outubro de 2022 e 30 de outubro de 2022. O dashboard desenvolvido com o software Tableau® está disponível publicamente no seguinte endereço:
-https://public.tableau.com/views/TwitterAnalyzer-CPBr2022/Painel-Versao-1?:language=ptBR&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/david.soares/viz/TwitterAnalyzer-CPBr2022/Painel-Versao-1
